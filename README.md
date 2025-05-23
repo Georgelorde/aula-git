@@ -70,3 +70,5 @@ Data:21/05/2025
 
  5. Maior Facilidade de Colaboração:
  A POO facilita a divisão do trabalho em tarefas menores e independentes entre diferentes programadores, promovendo uma colaboração mais eficiente.                          
+=======
+
